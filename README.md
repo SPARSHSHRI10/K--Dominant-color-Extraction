@@ -1,1 +1,1 @@
-# K--Dominant-color-Extraction
+# K-Dominant-color-Extraction
